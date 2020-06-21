@@ -10,4 +10,5 @@ Download the npm and node which can be found through theses links:<br>
 Create a file named config.txt and use the contents of example_config.txt to fill the needed information
 
 ### Additional help
-I've followed these guidelines form twitch and got it up and running on a Linux system.
+I've followed these guidelines form twitch and got it up and running on a Linux system:
+https://dev.twitch.tv/docs/irc

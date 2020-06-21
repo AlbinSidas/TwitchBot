@@ -1,0 +1,14 @@
+{
+  "name": "paradoxialbot",
+  "version": "1.0.0",
+  "description": "A bot created to serve viewers in the chat of Paradoxial",
+  "main": "bot.js",
+  "scripts": {
+    "test": "bottest"
+  },
+  "author": "Albin Sidås",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  }
+}
